@@ -1,0 +1,6 @@
+{
+  "name": "Comerça",
+  "description": "Plataforma de comércio digital de produtos, cursos, ebooks e serviços com suporte a Kwanza (AOA), Dólar (USD), Euro (EUR) e Real (BRL), afiliados, carteira e pagamentos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
